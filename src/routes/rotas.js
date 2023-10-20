@@ -10,10 +10,10 @@ router.get('/listar', (request, response) => {
 router.post('/cadastrar', (request, response) => {
     response.send('Método POST: salvar informações');
 });
-router.put('/user/:id', (request, response) => {
+router.put('/atualizar', (request, response) => {
     response.send('Método PUT: atualizar informações');
 });
-router.delete('/user/:id', (request, response) => {
+router.delete('/remover', (request, response) => {
     response.send('Método DELETE: remover informações');
 });
 
