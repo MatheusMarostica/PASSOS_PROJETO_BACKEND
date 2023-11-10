@@ -105,3 +105,15 @@ Exemplo de Post
 
 Exemplo de Put
 <img src="./Imagens/Put.png">
+
+Exemplo de Deletar
+<img src="./Imagens/Deletar.png">
+
+Exemplo de Gravar
+<img src="./Imagens/Gravar.png">
+
+Exemplo de Atualizar
+<img src="./Imagens/Atualizar.png">
+
+Exemplo de Listar
+<img src="./Imagens/Listar.png">
