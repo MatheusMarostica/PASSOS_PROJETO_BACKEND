@@ -93,3 +93,15 @@ git remote add origin COLAR_URL
 Enviar os arquivos para o gitHub
 ```
 git push -u origin main
+```
+Exemplo de Delete
+<img src="./Imagens/Delete.png">
+
+Exemplo de Get
+<img src="./Imagens/Get.png">
+
+Exemplo de Post
+<img src="./Imagens/Post.png">
+
+Exemplo de Put
+<img src="./Imagens/Put.png">
